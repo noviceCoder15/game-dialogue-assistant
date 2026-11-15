@@ -1,0 +1,114 @@
+Guard: Halt, traveler. State your business in Ironvale.
+Hero: I seek the blacksmith. I need a new sword.
+Guard: Follow the lantern road past the fountain. Mind the geese.
+Innkeeper: Welcome to the Sleeping Dragon! Soup is hot and the beds are warm.
+Hero: How much for a room?
+Innkeeper: Ten silver a night, breakfast included.
+Blacksmith: Careful, the steel is still hot. What can I forge for you?
+Hero: A sword that will not break.
+Blacksmith: Bring me three ingots of moonsteel and I will make you a blade for the ages.
+Merchant: Potions, scrolls, maps to places that may or may not exist!
+Hero: Do you buy old relics?
+Merchant: Always. Show me what you found and I will name a fair price.
+Wizard: The stars are restless tonight. Something stirs beneath the old tower.
+Hero: What kind of something?
+Wizard: The kind that does not like visitors. Take a torch and a brave friend.
+Guard: The northern gate closes at dusk, traveler. Do not be late.
+Innkeeper: You look tired. Sit by the fire and tell me about the road.
+Hero: Wolves followed me for two days.
+Innkeeper: Wolves are nothing. Last week a troll asked for a discount.
+Blacksmith: I heard the miners found a glowing vein in the deep tunnels.
+Hero: Where are the tunnels?
+Blacksmith: East of the river. Take the lift, but do not trust the rope.
+Merchant: Ten gold for the map, five if you promise to tell no one.
+Hero: Five it is. Where does it lead?
+Merchant: To a treasure, a trap, or a very large rock. Hard to say.
+Wizard: Magic is only patience wearing a pointed hat.
+Hero: Can you teach me a spell?
+Wizard: Gladly. Start with light. If you can summon a spark, you can summon a plan.
+Guard: Quiet night so far, traveler. Only a cat and a suspicious barrel.
+Hero: A suspicious barrel?
+Guard: It moved when I looked away. I am keeping my eye on it.
+Innkeeper: The stew today is rabbit, and before you ask, friend, yes, it is fresh.
+Blacksmith: Your armor is dented. Hand it over and I will make it sing.
+Hero: How long will it take?
+Blacksmith: Until sundown. Go have a drink and stay out of trouble.
+Merchant: Lantern oil, rope, and a lucky coin. Every adventurer needs the lucky coin.
+Hero: Is it really lucky?
+Merchant: It has not failed me yet, and I am still here, am I not?
+Wizard: The portal opens at midnight, young one. Bring salt, silver, and a steady hand.
+Hero: And if the portal fails?
+Wizard: Then we will have a very interesting morning.
+Guard: Stay on the road, traveler. The forest is not kind after dark.
+Innkeeper: Breakfast is served at dawn. The bard will sing if you tip him.
+Hero: I will remember that.
+Blacksmith: Your sword is ready. It will cut through shadow and stone.
+Hero: Thank you. What do I owe you?
+Blacksmith: Bring me the moonsteel and we are even.
+Merchant: Thieves took my cart last night. If you find it, I will pay a reward.
+Hero: Which way did they go?
+Merchant: Toward the marsh. Look for wheel tracks and muddy footprints.
+Wizard: Beware the mirror in the east hall. It remembers every face it has seen.
+Guard: The captain wants to see you at the barracks, traveler. Do not keep her waiting.
+Hero: Did I do something wrong?
+Guard: No. Quite the opposite. She wants to give you a medal.
+Innkeeper: A medal! Drinks are on the house tonight, hero.
+Hero: I only did what anyone would do.
+Wizard: Few would have faced the dragon. Fewer still would have shared the gold.
+Blacksmith: A true hero deserves a true blade. Come back when the moon is full.
+Merchant: Safe travels, friend. May your pockets be heavy and your pack be light.
+Guard: Farewell, hero of Ironvale. The gates are always open for you.
+Guard: Halt! Who goes there? Speak quickly, traveler, or spend the night in the cells.
+Guard: The bridge is out, traveler. Take the ford and keep your boots dry.
+Guard: I have guarded this gate for twenty years, and nothing has ever happened. Not once.
+Guard: Move along, traveler. The market closes at dusk and the captain hates stragglers.
+Guard: Keep your sword sheathed inside the walls, traveler. Those are the rules.
+Guard: A dragon was seen over the hills. Stay inside the walls tonight.
+Guard: Show me your papers, traveler. No papers, no entry.
+Guard: The road north is closed. Bandits, mostly, and one very angry goat.
+Guard: Welcome back, hero. The captain asked about you twice this week.
+Innkeeper: Welcome, friend! Pull up a chair, the stew is hot and the ale is cold.
+Innkeeper: Another round? The ale is cold, the fire is warm, and the bard is almost sober.
+Innkeeper: Rooms are ten silver, and the stew is free if you tell me a good story.
+Innkeeper: Mind the third stair, friend. It creaks, and so do the ghosts.
+Innkeeper: Sit by the fire, friend, and tell me where the road has taken you.
+Innkeeper: The best bed in the house is yours tonight, friend, and the soup is on me.
+Innkeeper: Travelers come and go, friend, but a good meal is always welcome.
+Innkeeper: No fighting in the tavern, friend. Last time it cost me three chairs and a window.
+Innkeeper: Have you tried the honey cake, friend? The baker swears it cures bad luck.
+Blacksmith: Steel does not lie. Bring me good iron and I will give you a blade that sings.
+Blacksmith: The forge never sleeps, and neither do I. Hand me the hammer.
+Blacksmith: This blade needs more heat and more patience. Steel rewards those who wait.
+Blacksmith: I can mend a shield, sharpen an axe, or shoe a horse. Pick one.
+Blacksmith: Bring me iron, bring me coal, and bring me quiet, and I will forge you a legend.
+Blacksmith: A dull blade is a dangerous blade. Let me sharpen it before the next fight.
+Blacksmith: Good steel takes time. Rush the forge and the blade will break when you need it most.
+Blacksmith: The anvil has seen a hundred swords and not one of them was ever perfect.
+Blacksmith: Your shield is cracked. Leave it with me and I will have it whole by morning.
+Merchant: Step right up! Fine wares at fair prices, and a discount for friends. Friends pay double.
+Merchant: Gold for gems, silver for scrolls, and a fair price for anything shiny.
+Merchant: A fair price, my friend, a fair price. Anyone who says otherwise is selling you something.
+Merchant: This amulet is cursed, but only a little, and it is half price today.
+Merchant: Buy two potions and get a third for free. The third one may be soup.
+Merchant: Coin is coin, my friend, and a good deal is a good friend.
+Merchant: I sell maps, charms, and rumors. The rumors are free, but the good ones cost gold.
+Merchant: Everything in this cart has a story, and every story has a price.
+Merchant: Come back soon, my friend. The prices will be fair and the gold will be welcome.
+Wizard: Ah, a visitor. The stars foretold you would come, though they were vague about the time.
+Wizard: The stars are silent tonight, and silence is never a good omen.
+Wizard: Magic is subtle, young one. Listen to the wind before you cast a spell.
+Wizard: Ancient spells wake slowly, young one, and they dislike being rushed.
+Wizard: Beware the shadows beneath the tower, young one. They remember more than they should.
+Wizard: Knowledge is the sharpest blade, young one, and the heaviest burden.
+Wizard: The stars have shifted, and so has the fate of this land.
+Wizard: I have read a thousand books and understood perhaps ten. Such is the way of wisdom.
+Wizard: Light a candle, young one, and the darkness will tell you its secrets.
+Hero: I am only passing through, but I could use a meal and a place to rest.
+Hero: Tell me everything you know about the old tower.
+Hero: I will find the moonsteel, even if I have to climb the mountain myself.
+Hero: That sounds dangerous. Count me in.
+Hero: I have faced worse, but not before breakfast.
+Hero: What is the price for the lantern and the rope?
+Hero: I will return before dawn. Keep the fire burning.
+Hero: Thank you for everything. I will not forget your kindness.
+Hero: Lead the way. I am ready.
