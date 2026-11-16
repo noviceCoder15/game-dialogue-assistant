@@ -1,3 +1,4 @@
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/tzdup4gat7/badge.svg)](https://msrit.ask.thili.ai/b/tzdup4gat7)
 # Game Dialogue Assistant
 
 A command-line tool that helps game designers prototype NPC dialogue. Give it a starting
