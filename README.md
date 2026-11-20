@@ -1,5 +1,5 @@
-[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/tzdup4gat7/badge.svg)](https://msrit.ask.thili.ai/b/tzdup4gat7)
 # Game Dialogue Assistant
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/tzdup4gat7/badge.svg)](https://msrit.ask.thili.ai/b/tzdup4gat7)
 
 A command-line tool that helps game designers prototype NPC dialogue. Give it a starting
 phrase and it continues the line, word by word, using an n-gram language model trained on a
